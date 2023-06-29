@@ -1,4 +1,7 @@
-### Hi there 👋
+Hi, I'm Mateo 👓🤏, a Product Designer who enjoys simplifying digital spaces with a blend of minimalism and automation, boosting productivity in the process.
+
+- 👯 I’m looking to collaborate on open-source projects aimed at enhancing productivity.
+- 📫 How to reach me: (https://contact.yadarola.com.ar/)
 
 <!--
 **sryo/sryo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
